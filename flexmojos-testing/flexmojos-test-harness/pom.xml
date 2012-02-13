@@ -185,6 +185,10 @@
             <xml>com.adobe.flex.framework:air-framework:4.5.0.20967:pom</xml>
             <xml>com.adobe.flex.framework:flex-framework:4.5.0.20967:pom</xml>
 
+            <xml>com.adobe.flex:compiler:4.5.1.21328:pom</xml>
+            <xml>com.adobe.flex.framework:air-framework:4.5.1.21328:pom</xml>
+            <xml>com.adobe.flex.framework:flex-framework:4.5.1.21328:pom</xml>
+
             <xml>com.adobe.flex:compiler:${flex.sdk.version}:pom</xml>
             <xml>com.adobe.flex.framework:air-framework:${flex.sdk.version}:pom</xml>
             <xml>com.adobe.flex.framework:flex-framework:${flex.sdk.version}:pom</xml>

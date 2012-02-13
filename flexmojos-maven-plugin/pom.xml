@@ -119,9 +119,9 @@
                   <groupId>com.adobe.flex.framework</groupId>
                   <artifactId>playerglobal</artifactId>
                   <version>${flex.sdk.version}</version>
-                  <classifier>10.2</classifier>
+                  <classifier>11.1</classifier>
                   <type>swc</type>
-                  <destFileName>playerglobal-10-4.swc</destFileName>
+                  <destFileName>playerglobal-11-1.swc</destFileName>
                 </artifactItem>
               </artifactItems>
               <outputDirectory>${project.build.testOutputDirectory}/swcs</outputDirectory>
