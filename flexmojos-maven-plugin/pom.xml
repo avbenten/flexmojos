@@ -8,7 +8,7 @@
   <parent>
     <groupId>org.sonatype.flexmojos</groupId>
     <artifactId>flexmojos-parent</artifactId>
-    <version>4.2-beta-SNAPSHOT</version>
+    <version>4.3-beta-SNAPSHOT</version>
   </parent>
 
   <artifactId>flexmojos-maven-plugin</artifactId>
@@ -187,7 +187,7 @@
     </dependency>
     <dependency>
       <groupId>${project.groupId}</groupId>
-      <artifactId>flexmojos-generator-graniteds-2.2.0</artifactId>
+      <artifactId>flexmojos-generator-graniteds-2.3.0</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
